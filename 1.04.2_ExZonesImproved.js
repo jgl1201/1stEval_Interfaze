@@ -27,7 +27,7 @@ function windowResized() {
 }
 
 function draw() {
-  background(220);
+  background(120);
   
   textSize(20);
   
