@@ -2,6 +2,7 @@ var textSizeRatio = 0.05;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  focus();
 }
 
 function windowResized() {
